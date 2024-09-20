@@ -13,6 +13,10 @@ Teleprompt is a modern, web-based teleprompter application designed to provide a
 - **Customizable Display**: Adjust text size, scroll speed, and more to suit your presentation style.
 - **Responsive Design**: Works across various devices, from desktops to tablets, ensuring accessibility anywhere.
 
+
+
+![Teleprompy Example](assets/images/teleprompt.gif)
+
 ## Getting Started
 
 To get started with Teleprompt, clone this repository to your local machine:
@@ -39,7 +43,6 @@ Teleprompt offers a wide range of options to customize your teleprompting experi
 - **Edit Text**: Allows you to modify the script directly in the teleprompter interface.
 - **Language**: Choose the language for speech recognition, ensuring accurate real-time feedback.
 
-![Teleprompy Example](assets/images/teleprompt.gif)
 
 
 ## Contributing
